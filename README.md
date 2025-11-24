@@ -1,5 +1,4 @@
 Android To-Do List Application
-Graduate-Level Mobile Development Project
 
 Project Overview
 
